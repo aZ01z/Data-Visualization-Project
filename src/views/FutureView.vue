@@ -275,9 +275,9 @@ async function handleSend() {
   }, 0)
 
   // API配置
-  const DOUBAO_API_KEY = 'ark-1c769b5f-5118-4b22-8a0e-2b0efa1e0379-59cff'
-  const MODEL_NAME = 'doubao-seed-2-0-lite-260215'
-  const API_URL = 'https://ark.cn-beijing.volces.com/api/v3/chat/completions'
+  const DOUBAO_API_KEY = ''
+  const MODEL_NAME = ''
+  const API_URL = ''
 
   try {
     const res = await fetch(API_URL, {
