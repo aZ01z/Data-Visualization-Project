@@ -1,2 +1,2 @@
 # Data-Visualization-Project
-计算机设计比赛的项目
+vue可视化响应式以及python后端练手
